@@ -1,0 +1,52 @@
+.brightRed {
+    color:hsl(12, 88%, 59%);
+}
+.brightRedLight{
+    color:  hsl(12, 88%, 69%);
+}
+.brightRedSupLight{
+    color:  hsl(12, 88%, 95%);
+}
+.darkBlue{
+    color:  hsl(228, 39%, 23%);
+}
+.darkGrayishBlue{
+    color:  hsl(227, 12%, 61%);
+}
+.veryDarkBlue{
+    color:  hsl(233, 12%, 13%);
+}
+.veryPaleRed{
+    color:  hsl(13, 100%, 96%);
+}
+.veryLightGray{
+    color:  hsl(0, 0%, 98%);
+}
+
+.hoverdarkGrayishBlue:hover{
+    color: hsl(227, 12%, 61%);
+}
+
+.bg-brightRed{
+    background-color: hsl(12, 88%, 59%);
+}
+
+.bg-brightRed:hover{
+    background-color: hsl(12, 88%, 69%);
+}
+
+.text-darkGrayishBlue{
+    color: hsl(227, 12%, 61%);
+}
+
+.bg-brightRedSupLight{
+    background-color: hsl(12, 88%, 95%);
+}
+
+.bg-veryLightGray{
+    background-color: hsl(0, 0%, 98%);
+}
+
+.bg-veryDarkBlue{
+    background-color:  hsl(233, 12%, 13%);
+}
